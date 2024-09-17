@@ -1,4 +1,5 @@
 "use strict";
+// setup file
 
 const fs = require("fs");
 const path = require("path");
